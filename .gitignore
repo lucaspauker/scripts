@@ -1,0 +1,9 @@
+
+*.json
+*.png
+*__pycache__/*
+*.swp
+*.bak
+*.log
+*.pyc
+
